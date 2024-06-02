@@ -3,18 +3,20 @@ A python repo that can convert input text into Brainfuck code
 
 ## English | [繁體中文](readme.md) 
 
-# How to use
-1. Using the [brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper)extension for VS Code.
+# How to run
+**Way1**
+ - Using the [brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper) extension for VS Code.
 
-在main.bf按F1之後選Execute brainfuck就能執行了
+ - After pressing F1 in main.bf, select 'Execute Brainfuck' to run.
 
-2. 使用brainfuck線上編譯器
+**Way2**
+ - Using an online Brainfuck compiler.
 
-到[線上編譯器](https://ashupk.github.io/Brainfuck/brainfuck-visualizer-master/index.html#)
+ - Open the [online Brainfuck compiler](https://ashupk.github.io/Brainfuck/brainfuck-visualizer-master/index.html#)
 
-把main.bf的內容輸入進去然後按Run即可
+ - Enter the content of main.bf and then press Run.
 
-# 注意事項
-這個程式只是進行簡單的文本轉換成ascii再轉換成brainfuck程式，沒有input功能
+# Please note
+This program simply converts text into ASCII and then into Brainfuck code; it does not have input functionality.
 
-線上編譯器的記憶體單元數上限是27，此專案是將文本輸出後就會將該單元清空，所以從頭到尾只會占用一個單元，不過未來想改造專案要注意
+The online compiler has a memory cell limit of 27. This project clears the cell after outputting the text, so it only occupies one cell throughout. However, future modifications to the project should take this into account.

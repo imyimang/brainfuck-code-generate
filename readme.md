@@ -14,7 +14,7 @@
 
  - 到[線上編譯器](https://ashupk.github.io/Brainfuck/brainfuck-visualizer-master/index.html#)
 
-把main.bf的內容輸入進去然後按Run即可
+ - 把main.bf的內容輸入進去然後按Run即可
 
 # 注意事項
 這個程式只是進行簡單的文本轉換成ascii再轉換成brainfuck程式，沒有input功能
