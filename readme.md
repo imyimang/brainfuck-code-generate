@@ -4,15 +4,15 @@
 ## [English](readme.en_EN.md) | 繁體中文 
 
 # 使用方法
-## 方法1
-使用vs code的[brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper)擴充套件
+**方法一**
+ - 使用vs code的[brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper)擴充套件
 
-在main.bf按F1之後選Execute brainfuck就能執行了
+ - 在main.bf按F1之後選Execute brainfuck就能執行了
 
-## 方法二 
-使用brainfuck線上編譯器
+**方法二**
+ - 使用brainfuck線上編譯器
 
-到[線上編譯器](https://ashupk.github.io/Brainfuck/brainfuck-visualizer-master/index.html#)
+ - 到[線上編譯器](https://ashupk.github.io/Brainfuck/brainfuck-visualizer-master/index.html#)
 
 把main.bf的內容輸入進去然後按Run即可
 
