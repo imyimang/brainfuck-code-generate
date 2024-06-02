@@ -1,7 +1,7 @@
 # brainfuck程式轉換器
 能夠將輸入的文本轉換成brainfuck程式
 
-## [English](readme.en_EN.md) | 繁體中文 
+## [English](readme_EN.md) | 繁體中文 
 
 # 使用方法
 **方法一**
