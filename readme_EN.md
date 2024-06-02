@@ -1,16 +1,14 @@
-# brainfuck程式轉換器
-能夠將輸入的文本轉換成brainfuck程式
+# brainfuck code generater
+A python repo that can convert input text into Brainfuck code
 
-## [English](readme.en_EN.md) | 繁體中文 
+## English | [繁體中文](readme.md) 
 
-# 使用方法
-## 方法1
-使用vs code的[brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper)擴充套件
+# How to use
+1. Using the [brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper)extension for VS Code.
 
 在main.bf按F1之後選Execute brainfuck就能執行了
 
-## 方法二 
-使用brainfuck線上編譯器
+2. 使用brainfuck線上編譯器
 
 到[線上編譯器](https://ashupk.github.io/Brainfuck/brainfuck-visualizer-master/index.html#)
 
