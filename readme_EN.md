@@ -3,7 +3,9 @@ A python repo that can convert input text into Brainfuck code
 
 ## English | [繁體中文](readme.md) 
 
-# How to run
+# How to use
+run `main.py`
+# How to run the brainfuck code
 **Way1**
  - Using the [brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper) extension for VS Code.
 
