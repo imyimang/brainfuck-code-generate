@@ -4,6 +4,8 @@
 ## [English](readme_EN.md) | 繁體中文 
 
 # 使用方法
+運行 `main.py`
+# 如何運行brainfuck程式
 **方法一**
  - 使用vs code的[brainfuckHelper](https://marketplace.visualstudio.com/items?itemName=ComputerElite.brainfuckhelper)擴充套件
 
