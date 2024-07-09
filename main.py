@@ -15,9 +15,9 @@ with open('main.bf', mode, encoding='utf-8') as f:
         if ascii_value > 255:
             ascii_value = 42 #如果字符超出ascii255就轉換成"*" | If characters exceed ASCII 255, they are converted to '*'
         print(f"{ascii_value}:{chr(ascii_value)}")
-        for i in range(ascii_value):
-            f.write("+")
-        f.write(".[-]")
+        code = "+" * ascii_value
+        f.write(code)
+        f.write(".>")
     print("轉換完成")
     print("Conversion complete")
 
