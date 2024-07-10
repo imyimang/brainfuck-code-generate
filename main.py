@@ -12,8 +12,8 @@ mode = "w" if mode == "1" else "a"
 with open('main.bf', mode, encoding='utf-8') as f:
     for char in user_input:
         ascii_value = ord(char)
-        if ascii_value > 255:
-            ascii_value = 42 #如果字符超出ascii255就轉換成"*" | If characters exceed ASCII 255, they are converted to '*'
+        if ascii_value > 127:
+            ascii_value = 42 #如果字符超出ascii 127就轉換成"*" | If characters exceed ASCII 255, they are converted to '*'
         print(f"{ascii_value}:{chr(ascii_value)}")
         code = "+" * ascii_value
         f.write(code)
